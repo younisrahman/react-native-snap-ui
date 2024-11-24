@@ -1,0 +1,28 @@
+{
+  "name": "react-native-snap-ui",
+  "version": "0.0.1",
+  "description": "A React Native UI library that simplifies and accelerates app development with pre-built components and utilities.",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:younisrahman/react-native-snap-ui.git"
+  },
+  "keywords": [
+    "React Native",
+    "React Native UI Library",
+    "React Native Component Library",
+    "React Native Components"
+  ],
+  "author": [
+    "Younis Rahman",
+    "Walid khan Jim"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/younisrahman/react-native-snap-ui.git/issues"
+  },
+  "homepage": "https://github.com/younisrahman/react-native-snap-ui.git#readme"
+}
